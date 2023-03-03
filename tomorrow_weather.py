@@ -1,3 +1,8 @@
+#!/usr/bin/env python3
+"""
+cron: 0 40 22 * * *
+new Env('明日天气');
+"""
 import sys
 import requests
 import json
