@@ -1,3 +1,8 @@
+#!/usr/bin/env python3
+"""
+cron: 1 0 7-21/3 * * ?
+new Env('3小时判断一次天气');
+"""
 import sys
 import requests
 import json
